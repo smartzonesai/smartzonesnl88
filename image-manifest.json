@@ -1,0 +1,61 @@
+{
+  "style_anchor": "Warm golden-hour photography, cream and earth tones, soft natural window light, organic textures (wood, linen, warm stone), inviting and genuine quality, slightly warm color temperature",
+  "assets": [
+    {
+      "name": "hero-floorplan",
+      "section": "Hero / Visual",
+      "prompt": "Warm golden-hour photography. Aerial view of a bright, well-organized retail store interior from above, warm wooden floors, neatly arranged clothing racks and shelves forming clear zones, customers browsing peacefully, soft warm natural light streaming through skylights, cream and terracotta tones. Inviting, clean, professional retail space. No text, no labels, no UI elements.",
+      "output": "./public/images/hero-floorplan.png",
+      "aspect": "16:9"
+    },
+    {
+      "name": "store-analysis",
+      "section": "Problem / Visual",
+      "prompt": "Warm golden-hour photography. A professional retail consultant examining a store floor plan spread on a wooden table, warm ambient lighting, coffee cups nearby, notebooks and colored markers, natural linen textures, earth-toned clothing store visible in soft focus background. Genuine, approachable, hands-on consulting feel. No text, no logos.",
+      "output": "./public/images/store-analysis.png",
+      "aspect": "16:9"
+    },
+    {
+      "name": "case-fashion",
+      "section": "Results / Case Study 1",
+      "prompt": "Warm golden-hour photography. Interior of a stylish Dutch fashion boutique after professional redesign, warm wooden display fixtures, well-spaced clothing racks with clear walking paths between them, soft pendant lighting, cream walls, terracotta accent pottery, a few customers browsing comfortably. Inviting and organized. No text.",
+      "output": "./public/images/case-fashion.png",
+      "aspect": "3:2"
+    },
+    {
+      "name": "case-supermarket",
+      "section": "Results / Case Study 2",
+      "prompt": "Warm golden-hour photography. Modern Dutch supermarket interior with optimized layout, warm wooden shelf displays, colorful fresh produce section with warm overhead lighting, clear wide aisles, warm-toned floor tiles, baskets of artisan bread visible. Clean, organized, welcoming grocery environment. No text.",
+      "output": "./public/images/case-supermarket.png",
+      "aspect": "3:2"
+    },
+    {
+      "name": "case-home",
+      "section": "Results / Case Study 3",
+      "prompt": "Warm golden-hour photography. Dutch home furnishing store interior with open room displays, natural wood furniture, warm linen textiles draped over sofas, soft reading lamps creating pools of warm light, clear pathways through the showroom, plants and organic decor elements. Cozy and well-organized. No text.",
+      "output": "./public/images/case-home.png",
+      "aspect": "3:2"
+    },
+    {
+      "name": "about-team",
+      "section": "About / Team",
+      "prompt": "Warm golden-hour photography. Two retail consultants standing inside a bright store, one pointing at a section of shelving while explaining the layout to the store owner, warm natural light from large windows, genuine candid moment, earth-toned clothing, wooden fixtures in background. Professional but approachable. No text.",
+      "output": "./public/images/about-team.png",
+      "aspect": "4:5"
+    },
+    {
+      "name": "og-image",
+      "section": "Brand / Open Graph",
+      "prompt": "Professional social share image for Smart Zones, a Dutch retail store optimization company. Warm cream background (#F5F0E8), elegant serif text 'Smart Zones' in deep brown (#2C2114), below it 'Winkelindeling die verkoopt' in terracotta (#C45A3C). Subtle organic texture in background. Clean branded graphic. No photos.",
+      "output": "./public/og-image.png",
+      "aspect": "16:9"
+    },
+    {
+      "name": "favicon",
+      "section": "Brand / Favicon",
+      "prompt": "Minimal iconic logo mark, letters S and Z combined into a single flowing organic monogram, terracotta (#C45A3C) on warm cream (#F5F0E8) background. Soft, rounded, modern serif style. Recognizable at small sizes. Centered. No additional text.",
+      "output": "./public/favicon-source.png",
+      "aspect": "1:1"
+    }
+  ]
+}
